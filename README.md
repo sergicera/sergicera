@@ -16,7 +16,7 @@ Consequently, I am in the ongoing process of developing software designed to str
 
 If you resonate with our vision and would like to explore collaboration, please don't hesitate to get in touch.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/sergio-cera/) or [follow me on Medium.](https://medium.com/@sergicera)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sergio-cera/) or follow me on [Medium](https://medium.com/@sergicera).
 
 Best regards,
 
