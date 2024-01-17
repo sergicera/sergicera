@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# I'm Sergio Cera
+# Hi there 👋
 
 I work at RDR architectes, a leading architectural firm that creates innovative and sustainable solutions for complex architectural challenges. I value collaboration, creativity, and curiosity, and I strive to bring diverse perspectives and experiences to the team.
 
