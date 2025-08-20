@@ -1,9 +1,9 @@
-# Hi there 👋
+# Bonjour 👋
 
-Passionate about the architectural profession, I unify the design, analysis, and construction processes into a coherent and effective whole.
+ Architecte passionné, j'unifie les processus de conception, d'analyse et de réalisation en intégrant des technologies de pointe pour créer des projets cohérents et performants. 
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/sergio-cera/)
+Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/sergio-cera/)
 
-Best regards,
+Cordialement,
 Sergio Cera
 
